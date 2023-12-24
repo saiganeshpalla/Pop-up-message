@@ -2,4 +2,4 @@
 
 ## feel free to modify the code
 
-## Thamk you page
+## Thank you page
